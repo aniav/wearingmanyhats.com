@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Now
+permalink: /now/
 ---
 
 + I live with [Patrys](https://www.instagram.com/senorpatrys/) (11 years alread!) and Pączka 🐈
