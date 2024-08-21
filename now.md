@@ -10,6 +10,6 @@ permalink: /now/
 + I still do [quite a bit of sewing, and a lot of cooking](https://www.instagram.com/miss.aniav/)
 + I listen to some podcasts and [Rich Roll](https://www.richroll.com/all-episodes/) is by far my favourite
 
-This page is inspired by [Ana Balica's Now Page](http://ana-balica.github.io/now/'), which will lead you to another chain of "inspired by".
+This page is inspired by [Ana Balica's Now Page](http://ana-balica.github.io/now/), which will lead you to another chain of "inspired by".
 
 Last updated August 2024.
