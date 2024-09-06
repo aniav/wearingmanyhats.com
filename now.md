@@ -4,7 +4,7 @@ title: Now
 permalink: /now/
 ---
 
-+ I live with [Patrys](https://www.instagram.com/senorpatrys/) (11 years alread!) and Pączka 🐈
++ I live with [Patrys](https://www.instagram.com/senorpatrys/) (11 years already!) and Pączka 🐈
 + I work at [Saleor](https://saleor.io) as Head of Product now and I'm obsessed with the kind people there 💕
 + I am into cycling, in 2024 I did road cycling in Tenerife, group cycling with [Babska Korba](https://www.instagram.com/babskakorba/) all summer and [a cycling camp in the Polish mountains](https://www.instagram.com/warsztaty.cc/)
 + I still do [quite a bit of sewing, and a lot of cooking](https://www.instagram.com/miss.aniav/)
